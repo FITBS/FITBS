@@ -23,7 +23,7 @@
 ### 🛠 &nbsp;GitHub Analytics &nbsp;
 <p float="left">
   <img alt="stats에 대한 이미지" src="https://github-readme-stats.vercel.app/api?username=FITBS&theme=maroongold&show_icons=true" width="38%" height="auto">
-  <img alt="자주쓰는 언어 이미지" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FITBS&layout=compact&theme=maroongold" width="32%" height="50%"/>
+  <img alt="자주쓰는 언어 이미지" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FITBS&layout=compact&theme=maroongold" width="32%" height="60%"/>
 </p>
 
 
@@ -35,7 +35,7 @@
 <a href="Loading"><img src="https://img.shields.io/badge/-@Loading-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 
 
-<!-- <a href="mailto:wnsgus@vntgcorp.com"><img src="https://img.shields.io/badge/-wnsgus@vntgcorp.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
+<!-- <a href="mailto:wnsgus2234@naver.com"><img src="https://img.shields.io/badge/-wnsgus2234@naver.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 
 
 <!--<a href="https://hits.seeyoufarm.com">
