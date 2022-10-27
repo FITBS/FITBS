@@ -35,7 +35,7 @@
 <a href="Loading"><img src="https://img.shields.io/badge/-@Loading-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 
 
-<!-- <a href="mailto:wnsgus2234@naver.com"><img src="https://img.shields.io/badge/-wnsgus2234@naver.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
+<a href="mailto:wnsgus2234@naver.com"><img src="https://img.shields.io/badge/-wnsgus2234@naver.com-Green?style=flat&logo=Naver&logoColor=white"/></a>
 
 
 <!--<a href="https://hits.seeyoufarm.com">
