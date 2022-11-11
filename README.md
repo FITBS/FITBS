@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/Apache NiFi-4285f4?style=flat-square&logo=Apache&logoColor=#231F20">  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white">  <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=white"><br>
    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=ClickUp&logoColor=white">    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white">
   
-### My Tech Blog
-<a href="https://velog.io/@jeonjunhyeon"><img src="https://img.shields.io/badge/-velog/jeonjunhyeon-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+<!-- ### My Tech Blog
+<a href="https://velog.io/@jeonjunhyeon"><img src="https://img.shields.io/badge/-velog/jeonjunhyeon-20C997?style=flat&logo=Velog&logoColor=white"/></a> -->
 
 
 ### 🛠 &nbsp;GitHub Analytics &nbsp;
