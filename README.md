@@ -20,11 +20,11 @@
 <a href="https://velog.io/@jeonjunhyeon"><img src="https://img.shields.io/badge/-velog/jeonjunhyeon-20C997?style=flat&logo=Velog&logoColor=white"/></a> -->
 
 
-### 🛠 &nbsp;GitHub Analytics &nbsp;
+<!-- ### 🛠 &nbsp;GitHub Analytics &nbsp;
 <p float="left">
   <img alt="stats에 대한 이미지" src="https://github-readme-stats.vercel.app/api?username=FITBS&theme=maroongold&show_icons=true" width="38%" height="auto">
   <img alt="자주쓰는 언어 이미지" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FITBS&layout=compact&theme=maroongold" width="32%" height="60%"/>
-</p>
+</p> -->
 
 
 ### 🤝🏻 &nbsp;Contact &nbsp;
